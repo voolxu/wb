@@ -1,0 +1,281 @@
+央视,#genre#
+CCTV-1 综合,http://w.wbravo.com:83/tv/migu.php?id=608807420
+CCTV-1 综合,http://w.wbravo.com:83/tv/migu_gh.php?id=cctv1
+CCTV-1 综合,http://314644.me:19999/rtp/239.49.8.129:6000
+
+CCTV-2 财经,http://w.wbravo.com:83/tv/migu.php?id=631780532
+CCTV-2 财经,http://w.wbravo.com:83/tv/migu_gh.php?id=cctv2
+CCTV-2 财经,http://314644.me:19999/rtp/239.49.8.130:6000
+
+CCTV-3 综艺,http://w.wbravo.com:83/tv/migu.php?id=624878271
+CCTV-3 综艺,http://w.wbravo.com:83/tv/migu_gh.php?id=cctv3
+CCTV-3 综艺,http://314644.me:19999/rtp/239.49.1.3:6000
+
+CCTV-4 中文国际,http://w.wbravo.com:83/tv/migu.php?id=631780421
+CCTV-4 中文国际,http://w.wbravo.com:83/tv/migu_gh.php?id=cctv4
+CCTV-4 中文国际,http://314644.me:19999/rtp/239.49.8.131:6000
+
+CCTV-5 体育,http://w.wbravo.com:83/tv/migu.php?id=641886683
+CCTV-5 体育,http://w.wbravo.com:83/tv/migu_gh.php?id=cctv5
+CCTV-5 体育,http://314644.me:19999/rtp/239.49.1.5:6000
+
+CCTV-5+ 体育赛事,http://w.wbravo.com:83/tv/migu.php?id=641886773
+CCTV-5+ 体育赛事,http://w.wbravo.com:83/tv/migu_gh.php?id=cctv5p
+CCTV-5+ 体育赛事,http://314644.me:19999/rtp/239.49.8.18:9610
+
+CCTV-6 电影,http://w.wbravo.com:83/tv/migu.php?id=624878396
+CCTV-6 电影,http://w.wbravo.com:83/tv/migu_gh.php?id=cctv6
+CCTV-6 电影,http://314644.me:19999/rtp/239.49.1.6:6000
+
+CCTV-7 国防军事,http://w.wbravo.com:83/tv/migu.php?id=673168121
+CCTV-7 国防军事,http://w.wbravo.com:83/tv/migu_gh.php?id=cctv7
+CCTV-7 国防军事,http://314644.me:19999/rtp/239.49.1.254:6000
+
+CCTV-8 电视剧,http://w.wbravo.com:83/tv/migu.php?id=624878356
+CCTV-8 电视剧,http://w.wbravo.com:83/tv/migu_gh.php?id=cctv8
+CCTV-8 电视剧,http://314644.me:19999/rtp/239.49.1.8:6000
+
+CCTV-9 纪录,http://w.wbravo.com:83/tv/migu.php?id=673168140
+CCTV-9 纪录,http://w.wbravo.com:83/tv/migu_gh.php?id=cctv9
+CCTV-9 纪录,http://314644.me:19999/rtp/239.49.8.53:9814
+
+CCTV-10 科教,http://w.wbravo.com:83/tv/migu.php?id=624878405
+CCTV-10 科教,http://w.wbravo.com:83/tv/migu_gh.php?id=cctv10
+CCTV-10 科教,http://314644.me:19999/rtp/239.49.8.134:6000
+
+CCTV-11 戏曲,http://w.wbravo.com:83/tv/migu.php?id=667987558
+CCTV-11 戏曲,http://w.wbravo.com:83/tv/migu_gh.php?id=cctv11
+CCTV-11 戏曲,http://314644.me:19999/rtp/239.49.1.11:6000
+
+CCTV-12 社会与法,http://w.wbravo.com:83/tv/migu.php?id=673168185
+CCTV-12 社会与法,http://w.wbravo.com:83/tv/migu_gh.php?id=cctv12
+CCTV-12 社会与法,http://314644.me:19999/rtp/239.49.8.135:6000
+
+CCTV-13 新闻,http://w.wbravo.com:83/tv/migu.php?id=608807423
+CCTV-13 新闻,http://w.wbravo.com:83/tv/migu_gh.php?id=cctv13
+CCTV-13 新闻,http://314644.me:19999/rtp/239.49.1.13:6000
+
+CCTV-14 少儿,http://w.wbravo.com:83/tv/migu.php?id=624878440
+CCTV-14 少儿,http://w.wbravo.com:83/tv/migu_gh.php?id=cctv14
+CCTV-14 少儿,http://314644.me:19999/rtp/239.49.8.136:6000
+
+CCTV-15 音乐,http://w.wbravo.com:83/tv/migu.php?id=673168223
+CCTV-15 音乐,http://w.wbravo.com:83/tv/migu_gh.php?id=cctv15
+CCTV-15 音乐,http://314644.me:19999/rtp/239.49.1.15:6000
+
+CCTV-16 奥林匹克,http://38.75.136.137:98/gslb/dsdqpub/cctv16hd.m3u8?auth=testpub
+CCTV-16 奥林匹克,http://74.91.26.218:82/live/cctv16hd.m3u8
+CCTV-16 奥林匹克,http://314644.me:19999/rtp/239.49.8.31:6000
+
+CCTV-17 农业农村,http://w.wbravo.com:83/tv/migu.php?id=673168256
+CCTV-17 农业农村,http://w.wbravo.com:83/tv/migu_gh.php?id=cctv17
+CCTV-17 农业农村,http://314644.me:19999/rtp/239.49.8.132:6000
+
+卫视,#genre#
+浙江卫视,http://ali-xwl.cztv.com/live/channel011080Pnew.m3u8
+浙江卫视,http://314644.me:19999/rtp/239.49.8.139:6000
+
+北京卫视,http://w.wbravo.com:83/tv/beijing.php?id=bjws
+北京卫视,http://w.wbravo.com:83/tv/migu_gh.php?id=bjwshd
+北京卫视,http://314644.me:19999/rtp/239.49.8.141:6000
+
+山东卫视,http://w.wbravo.com:83/tv/shandong.php?id=sdws
+山东卫视,http://38.75.136.137:98/gslb/dsdqpub/sdwshd.m3u8?auth=testpub
+山东卫视,http://314644.me:19999/rtp/239.49.8.146:6000
+
+江苏卫视,http://w.wbravo.com:83/tv/migu.php?id=623899368
+江苏卫视,http://w.wbravo.com:83/tv/migu_gh.php?id=jswshd
+江苏卫视,http://38.75.136.137:98/gslb/dsdqpub/jswshd.m3u8?auth=testpub
+江苏卫视,http://314644.me:19999/rtp/239.49.8.138:6000
+
+东方卫视,http://w.wbravo.com:83/tv/migu_gh.php?id=dfwshd
+东方卫视,http://38.75.136.137:98/gslb/dsdqpub/dfwshd.m3u8?auth=testpub
+东方卫视,http://314644.me:19999/rtp/239.49.8.140:6000
+
+辽宁卫视,http://w.wbravo.com:83/tv/migu.php?id=630291707
+辽宁卫视,http://w.wbravo.com:83/tv/migu_gh.php?id=lnwshd
+辽宁卫视,http://38.75.136.137:98/gslb/dsdqca/lnwshd.m3u8?auth=test20251009
+辽宁卫视,http://314644.me:19999/rtp/239.49.1.35:6000
+
+广东卫视,http://w.wbravo.com:83/tv/migu.php?id=608831231
+广东卫视,http://38.75.136.137:98/gslb/dsdqpub/gdwshd.m3u8?auth=testpub
+广东卫视,http://74.91.26.218:82/live/gdwshd.m3u8
+广东卫视,http://314644.me:19999/rtp/239.49.8.143:6000
+
+湖南卫视,http://74.91.26.218:82/live/hnwshd.m3u8
+湖南卫视,http://38.75.136.137:98/gslb/dsdqpub/hnwshd.m3u8?auth=testpub
+湖南卫视,http://314644.me:19999/rtp/239.49.8.142:6000
+
+海南卫视,http://w.wbravo.com:83/tv/migu.php?id=947472502
+海南卫视,http://314644.me:19999/rtp/239.49.1.41:6000
+
+湖北卫视,http://w.wbravo.com:83/tv/migu_gh.php?id=hbwshd
+湖北卫视,http://38.75.136.137:98/gslb/dsdqpub/hbwshd.m3u8?auth=testpub
+湖北卫视,http://314644.me:19999/rtp/239.49.8.147:6000
+
+东南卫视,http://w.wbravo.com:83/tv/migu_gh.php?id=dnwshd
+东南卫视,http://38.75.136.137:98/gslb/dsdqpub/dnwshd.m3u8?auth=testpub
+东南卫视,http://314644.me:19999/rtp/239.49.1.45:6000
+
+江西卫视,http://w.wbravo.com:83/tv/migu_gh.php?id=jxwshd
+江西卫视,http://38.75.136.137:98/gslb/dsdqpub/jxwshd.m3u8?auth=testpub
+江西卫视,http://314644.me:19999/rtp/239.49.8.185:6000
+
+吉林卫视,http://w.wbravo.com:83/tv/migu_gh.php?id=jlws
+吉林卫视,http://38.75.136.137:98/gslb/dsdqpub/jlwshd.m3u8?auth=testpub
+吉林卫视,http://314644.me:19999/rtp/239.49.1.49:6000
+
+兵团卫视,http://w.wbravo.com:83/tv/migu.php?id=956923145
+兵团卫视,http://w.wbravo.com:83/tv/migu_gh.php?id=btws
+
+海峡卫视,http://w.wbravo.com:83/tv/migu_gh.php?id=hxws
+
+陕西卫视,http://w.wbravo.com:83/tv/migu.php?id=738910838
+陕西卫视,http://38.75.136.137:98/gslb/dsdqpub/snwshd.m3u8?auth=testpub
+
+宁夏卫视,http://w.wbravo.com:83/tv/migu.php?id=738910535
+宁夏卫视,http://38.75.136.137:98/gslb/dsdqpub/nxws.m3u8?auth=testpub
+
+大湾区卫视,http://w.wbravo.com:83/tv/migu.php?id=608917627
+
+农林卫视,http://w.wbravo.com:83/tv/migu.php?id=956904896
+
+深圳卫视,http://38.75.136.137:98/gslb/dsdqpub/szwshd.m3u8?auth=testpub
+深圳卫视,http://74.91.26.218:82/live/szwshd.m3u8
+深圳卫视,http://314644.me:19999/rtp/239.49.8.145:6000
+
+天津卫视,http://38.75.136.137:98/gslb/dsdqpub/tjwshd.m3u8?auth=testpub
+天津卫视,http://314644.me:19999/rtp/239.49.8.148:6000
+
+河北卫视,http://38.75.136.137:98/gslb/dsdqpub/hewshd.m3u8?auth=testpub
+河北卫视,http://314644.me:19999/rtp/239.49.8.188:6000
+
+安徽卫视,http://38.75.136.137:98/gslb/dsdqpub/ahwshd.m3u8?auth=testpub
+安徽卫视,http://314644.me:19999/rtp/239.49.8.204:6000
+
+重庆卫视,http://38.75.136.137:98/gslb/dsdqpub/cqwshd.m3u8?auth=testpub
+重庆卫视,http://314644.me:19999/rtp/239.49.8.149:6000
+
+黑龙江卫视,http://38.75.136.137:98/gslb/dsdqpub/hljwshd.m3u8?auth=testpub
+黑龙江卫视,http://314644.me:19999/rtp/239.49.8.144:6000
+
+青海卫视,http://38.75.136.137:98/gslb/dsdqpub/qhws.m3u8?auth=testpub
+青海卫视,http://314644.me:19999/rtp/239.49.1.53:6000
+
+广西卫视,http://38.75.136.137:98/gslb/dsdqpub/gxwshd.m3u8?auth=testpub
+广西卫视,http://314644.me:19999/rtp/239.49.1.40:6000
+
+四川卫视,http://38.75.136.137:98/gslb/dsdqpub/scwshd.m3u8?auth=testpub
+四川卫视,http://314644.me:19999/rtp/239.49.1.43:6000
+
+河南卫视,http://38.75.136.137:98/gslb/dsdqpub/hawshd.m3u8?auth=testpub
+河南卫视,http://314644.me:19999/rtp/239.49.1.44:6000
+
+山西卫视,http://38.75.136.137:98/gslb/dsdqpub/sxwshd.m3u8?auth=testpub
+山西卫视,http://314644.me:19999/rtp/239.49.1.51:6000
+
+贵州卫视,http://38.75.136.137:98/gslb/dsdqpub/gzwshd.m3u8?auth=testpub
+贵州卫视,http://314644.me:19999/rtp/239.49.1.52:6000
+
+云南卫视,http://38.75.136.137:98/gslb/dsdqpub/ynwshd.m3u8?auth=testpub
+云南卫视,http://314644.me:19999/rtp/239.49.1.235:6000
+
+甘肃卫视,http://38.75.136.137:98/gslb/dsdqpub/gswshd.m3u8?auth=testpub
+甘肃卫视,http://cssbyd.imwork.net:8082/hls/48/index.m3u8
+
+内蒙古卫视,http://38.75.136.137:98/gslb/dsdqpub/nmgws.m3u8?auth=testpub
+内蒙古卫视,http://cssbyd.imwork.net:8082/hls/44/index.m3u8
+
+新疆卫视,http://38.75.136.137:98/gslb/dsdqpub/xjws.m3u8?auth=testpub
+
+厦门卫视,http://38.75.136.137:98/gslb/dsdqpub/xmws.m3u8?auth=testpub
+
+三沙卫视,http://38.75.136.137:98/gslb/dsdqpub/ssws.m3u8?auth=testpub
+
+西藏卫视,http://cssbyd.imwork.net:8082/hls/46/index.m3u8
+
+地方,#genre#
+宁波一台,http://w.wbravo.com:83/tv/ningboTV.php?id=nbtv1
+宁波二台,http://w.wbravo.com:83/tv/ningboTV.php?id=nbtv2
+宁波三台,http://w.wbravo.com:83/tv/ningboTV.php?id=nbtv3
+宁波四台,http://w.wbravo.com:83/tv/ningboTV.php?id=nbtv4
+
+浙江钱江频道,http://ali-xwl.cztv.com/live/channel021080Pnew.m3u8
+浙江经济生活,http://ali-xwl.cztv.com/live/channel031080Pnew.m3u8
+浙江教科影视,http://ali-xwl.cztv.com/live/channel041080Pnew.m3u8
+浙江民生休闲,http://ali-xwl.cztv.com/live/channel061080Pnew.m3u8
+浙江公共新闻,http://ali-xwl.cztv.com/live/channel071080Pnew.m3u8
+浙江少儿,http://ali-xwl.cztv.com/live/channel081080Pnew.m3u8
+浙江国际,http://ali-xwl.cztv.com/live/channel10720Pnew.m3u8
+浙江数码时代,http://ali-xwl.cztv.com/live/channel121080Pnew.m3u8
+
+港澳台,#genre#
+凤凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
+凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
+凤凰香港,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhhk
+无线新闻台,http://php.jdshipin.com/TVOD/iptv.php?id=tvbxw
+翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=huali2
+TVB 星河,http://php.jdshipin.com/TVOD/iptv.php?id=xinghe
+TVB Plus,http://php.jdshipin.com/TVOD/iptv.php?id=tvbp
+TVB 亚洲武侠,http://php.jdshipin.com/TVOD/iptv.php?id=yzwx
+TVB 娱乐新闻台,http://php.jdshipin.com/TVOD/iptv.php?id=tvbylxw
+TVB 千禧经典,http://php.jdshipin.com/TVOD/iptv.php?id=tvbc
+HOY TV,http://php.jdshipin.com/TVOD/iptv.php?id=hoytv
+明珠台,http://php.jdshipin.com/TVOD/iptv.php?id=mzt2
+美亚电影台,http://php.jdshipin.com:8880/smt.php?id=meiyamovie_twn
+澳视卫星,http://php.jdshipin.com/TVOD/iptv.php?id=as
+
+民视第一台,http://74.91.26.218:82/live/ftvdy.m3u8
+天映经典,http://74.91.26.218:82/live/tyjd.m3u8
+中视新闻,http://74.91.26.218:82/live/ctvnews.m3u8
+中视菁采,http://74.91.26.218:82/live/ctvjc.m3u8
+台视新闻,http://74.91.26.218:82/live/ttvnews.m3u8
+台视综合,http://74.91.26.218:82/live/ttvzh.m3u8
+中视经典,http://74.91.26.218:82/live/ctvjd.m3u8
+
+影视频道,#genre#
+电视剧-武林外传,http://w.wbravo.com:83/tv/yy.php?id=1355652820
+电视剧-水浒传,http://w.wbravo.com:83/tv/yy.php?id=1382702247
+电视剧-亮剑,http://w.wbravo.com:83/tv/yy.php?id=1356043643
+电视剧-少年包青天,http://w.wbravo.com:83/tv/yy.php?id=1356043677
+电视剧-纪晓岚,http://w.wbravo.com:83/tv/yy.php?id=1354143978
+电视剧-狂飙,http://w.wbravo.com:83/tv/yy.php?id=1354790484
+电视剧-地下交通站,http://w.wbravo.com:83/tv/yy.php?id=1382736795
+电视剧-神探狄仁杰,http://w.wbravo.com:83/tv/yy.php?id=1382851575
+电视剧-济公,http://w.wbravo.com:83/tv/yy.php?id=1355265814
+电视剧-新三国演义,http://w.wbravo.com:83/tv/yy.php?id=29216766
+电视剧-神雕侠侣,http://w.wbravo.com:83/tv/yy.php?id=1351762426
+电视剧-隋唐英雄传,http://w.wbravo.com:83/tv/yy.php?id=1352475619
+电视剧-雍正王朝,http://w.wbravo.com:83/tv/yy.php?id=1356043620
+电视剧-鹿鼎记,http://w.wbravo.com:83/tv/yy.php?id=1382704650
+电视剧-康熙微服私访记,http://w.wbravo.com:83/tv/yy.php?id=1352811698
+电视剧-83射雕英雄传,http://w.wbravo.com:83/tv/yy.php?id=1354210357
+电视剧-薛仁贵传奇,http://w.wbravo.com:83/tv/yy.php?id=1355260662
+电视剧-宰相刘罗锅,http://w.wbravo.com:83/tv/yy.php?id=1382745191
+电视剧-寻秦记,http://w.wbravo.com:83/tv/yy.php?id=1382749900
+电视剧-西游记后传,http://w.wbravo.com:83/tv/yy.php?id=1382736846
+电视剧-天龙八部,http://w.wbravo.com:83/tv/yy.php?id=1351814644
+电视剧-父母爱情,http://w.wbravo.com:83/tv/yy.php?id=1354926650
+电视剧-新白娘子传奇,http://w.wbravo.com:83/tv/yy.php?id=1354490667
+电视剧-欢乐颂,http://w.wbravo.com:83/tv/yy.php?id=1382851577
+电视剧-炊事班的故事,http://w.wbravo.com:83/tv/yy.php?id=1382736716
+电视剧-法证先锋,http://w.wbravo.com:83/tv/yy.php?id=1354930939
+电视剧-西游记张卫健版,http://w.wbravo.com:83/tv/yy.php?id=1354936155
+电视剧-仙剑奇侠传,http://w.wbravo.com:83/tv/yy.php?id=1382749903
+
+电影-国产喜剧,http://w.wbravo.com:83/tv/yy.php?id=1382736856
+电影-刘德华系列,http://w.wbravo.com:83/tv/yy.php?id=1354888726
+电影-成龙系列,http://w.wbravo.com:83/tv/yy.php?id=1354888751
+电影-林正英系列,http://w.wbravo.com:83/tv/yy.php?id=1462895099
+电影-李连杰系列,http://w.wbravo.com:83/tv/yy.php?id=74613175
+电影-古惑仔,http://w.wbravo.com:83/tv/yy.php?id=1458015189
+电影-夏洛特烦恼,http://w.wbravo.com:83/tv/yy.php?id=1354936201
+电影-鹿鼎记 周星驰版,http://w.wbravo.com:83/tv/yy.php?id=1354658049
+电影-智取威虎山,http://w.wbravo.com:83/tv/yy.php?id=1382736843
+电影-速度与激情,http://w.wbravo.com:83/tv/yy.php?id=1382749892
+电影-洪金宝福星系列,http://w.wbravo.com:83/tv/yy.php?id=1354924839
+电影-哈利波特系列,http://w.wbravo.com:83/tv/yy.php?id=1382745105
+
+小品相声-赵本山,http://w.wbravo.com:83/tv/yy.php?id=1382683959
+小品相声-宋小宝,http://w.wbravo.com:83/tv/yy.php?id=1382736866
+小品相声-每天笑不停,http://w.wbravo.com:83/tv/yy.php?id=1382741642
